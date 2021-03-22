@@ -265,4 +265,4 @@ client.on('guildMemberAdd', async (member) => {
 }
 })
 
-client.login(process.env.TOKEN)
+client.login(NzcyMDUyNjM0NjA0NDA0NzY2.X51EDA.Jzy_hvhTnou1_CC283LEFuvc4OQ)
